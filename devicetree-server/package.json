@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "@types/express": "^4.17.17",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "typescript": "^5.0.4",
+    "usb": "^2.9.0"
+  },
+  "name": "devicetree-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/cors": "^2.8.13",
+    "nodemon": "^2.0.22",
+    "ts-node": "^10.9.1"
+  }
+}
